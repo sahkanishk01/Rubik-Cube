@@ -1,6 +1,6 @@
 # Rubik-Cube
 
-# <p align="center">✨Rubik-Cube✨</p>
+# <p align="center">✨Rubik-Cube </p>
  
 
 <p align="center">
